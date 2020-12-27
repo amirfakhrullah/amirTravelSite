@@ -2,7 +2,7 @@
 
 ### Description
 
-Fun simple website created using css flexbox.
+A fictional  travelling website designed using Flexbox.
 
 ## Tech
 
